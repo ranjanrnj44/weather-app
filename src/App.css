@@ -1,0 +1,11 @@
+.App {
+  max-width: 70em;
+  background-color: grey;
+  margin: 0 auto;
+  border-radius: 2em;
+  height: 100vh;
+}
+.App h1 {
+  text-align: center;
+  padding: 1.3em;
+}

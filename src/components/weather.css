@@ -1,0 +1,23 @@
+.weather-container {
+  margin: 0 auto;
+  max-width: 35em;
+  border-radius: 32px;
+  background-color: black;
+  color: white;
+}
+.weather-header {
+  background-color: royalblue;
+  padding: 0.3em;
+  display: flex;
+  justify-content: space-between;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+}
+.weather-body {
+  text-align: center;
+  padding-bottom: 1.3em;
+}
+button {
+  border: none;
+  background-color: transparent;
+}
